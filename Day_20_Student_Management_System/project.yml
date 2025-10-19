@@ -1,0 +1,26 @@
+
+---
+
+### `project.yml`
+```yaml
+project:
+  name: "Day 20 - Student Marks Management System"
+  week: 3
+  language: "Python"
+  difficulty: "Intermediate"
+  topic: "File Handling & Functions"
+  author: "Faiz Ur Rehman Ashrafi"
+  created_on: "19 Oct 2025"
+  goal: "Manage students' marks using file handling operations"
+  features:
+    - Add student marks
+    - Show all records
+    - Update student marks
+    - Delete student
+    - Calculate average marks
+  file_structure:
+    - 03_student_marks_management.py
+    - students_marks.txt
+    - readme.md
+    - project.yml
+    - output.txt

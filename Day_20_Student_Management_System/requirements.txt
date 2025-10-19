@@ -1,0 +1,22 @@
+Project Files
+File Name	Description
+03_student_marks_management.py	Main Python program
+students_marks.txt	Data file storing all students and marks
+readme.md	Project description
+project.yml	Metadata for GitHub automation
+output.txt	Example output of the program
+Sample File Format
+Name : Faiz | Marks : 99
+Name : Ali | Marks : 86
+Name : Hassan | Marks : 75
+
+Requirements
+
+Python 3.8 or above
+
+No external libraries required
+
+Author
+
+Faiz Ur Rehman Ashrafi
+Part of the Python Mini Projects – 100 Days Challenge

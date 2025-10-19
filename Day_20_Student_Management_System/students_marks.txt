@@ -1,0 +1,4 @@
+Name : Faiz | Marks : 99
+Name : Ali | Marks : 86
+Name : Hassan | Marks : 75
+Name : Fatima | Marks : 65

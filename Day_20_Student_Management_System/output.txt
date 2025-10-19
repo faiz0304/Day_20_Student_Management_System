@@ -1,0 +1,35 @@
+=== 🎓 Welcome to Student Marks Management System ===
+
+------ Menu ------
+1. Show All Students
+2. Average Marks
+3. Add Student
+4. Update Student
+5. Delete Student
+6. Exit
+
+Enter Choice (1–6): 3
+Enter Student Name: Faiz
+Enter Student Marks: 99
+Student 'Faiz' added successfully.
+
+Enter Choice (1–6): 3
+Enter Student Name: Ali
+Enter Student Marks: 86
+Student 'Ali' added successfully.
+
+Enter Choice (1–6): 3
+Enter Student Name: Hassan
+Enter Student Marks: 75
+Student 'Hassan' added successfully.
+
+Enter Choice (1–6): 1
+Name : Faiz | Marks : 99
+Name : Ali | Marks : 86
+Name : Hassan | Marks : 75
+
+Enter Choice (1–6): 2
+Average Marks: 86.67
+
+Enter Choice (1–6): 6
+👋 Exiting... Data saved successfully.
